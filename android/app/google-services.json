@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574707989838",
+    "project_id": "flutterfirebasetutorial-85a48",
+    "storage_bucket": "flutterfirebasetutorial-85a48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574707989838:android:2810adbeef834f2014f21f",
+        "android_client_info": {
+          "package_name": "com.example.jurustay_group14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWRwN3iBgJtbsd3z3WhDh25BOQ5E5SYQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
